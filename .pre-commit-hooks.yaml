@@ -1,0 +1,6 @@
+- id: hclfmt
+  name: hclfmt
+  description: Format and prettify HCL files
+  entry: run-hclfmt.sh
+  language: script
+  files: \.hcl$
